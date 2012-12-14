@@ -1,0 +1,1 @@
+jekyll --server --base-url /~qliu/blog --safe
