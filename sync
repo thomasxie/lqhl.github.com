@@ -1,1 +1,1 @@
-jekyll --no-auto --safe && rsync -avz --delete _site/ linux15:www/blog
+jekyll --no-auto --safe --kramdown && rsync -avz --delete _site/ linux15:www/blog
